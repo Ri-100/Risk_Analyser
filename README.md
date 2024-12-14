@@ -10,3 +10,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___rishav__01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishav-shukla-2bb554229) 
+
+
+DataSet Link - https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014

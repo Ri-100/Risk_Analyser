@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **garghrishav@gmail.com**
 
-- 📄 Know about my experiences [https://ivory-lesley-34.tiiny.site](https://ivory-lesley-34.tiiny.site)
+- 📄 Know about my experiences (https://aquamarine-elladine-6.tiiny.site)
 
 
 
